@@ -1,2 +1,2 @@
 # Insertion-Sort-Python
-Python Program for Insertion Sort
+Python Program for Insertion Sort Algo.
